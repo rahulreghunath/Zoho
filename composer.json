@@ -1,11 +1,6 @@
 {
     "name": "rahulreghunath/zoho",
     "minimum-stability": "dev",
-    "autoload": {
-        "psr-4": {
-            "rahulreghunath\\zoho\\": "src"
-        }
-    },
     "require": {
     },
     "description": "Zoho CRM integration for PHP-Laravel ",
