@@ -3,7 +3,7 @@
     "minimum-stability": "dev",
     "require": {
     },
-    "description": "zoho api php integration",
+    "description": "PHP form validation plugin ",
     "homepage": "https://github.com/rahulreghunath/zoho-crm",
     "license": "MIT",
     "authors": [
