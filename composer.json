@@ -4,7 +4,7 @@
     "require": {
     },
     "description": "Zoho CRM integration for PHP-Laravel ",
-    "homepage": "https://github.com/rahulreghunath/Zoho",
+    "homepage": "https://github.com/rahulreghunath/zoho",
     "license": "MIT",
     "authors": [
         {
