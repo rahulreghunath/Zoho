@@ -1,5 +1,6 @@
 {
     "name": "rahulreghunath/zoho",
+    "minimum-stability": "dev",
     "description": "zoho api php integration",
     "license": "MIT",
     "authors": [
@@ -8,7 +9,6 @@
             "email": "rahulreghunath@outlook.in"
         }
     ],
-    "minimum-stability": "dev",
     "homepage": "https://github.com/rahulreghunath/zoho-crm",
     "require": {}
 }
