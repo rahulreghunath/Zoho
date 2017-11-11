@@ -3,7 +3,7 @@
     "minimum-stability": "dev",
     "require": {
     },
-    "description": "PHP form validation plugin ",
+    "description": "Zoho CRM integration for PHP-Laravel ",
     "homepage": "https://github.com/rahulreghunath/zoho-crm",
     "license": "MIT",
     "authors": [
@@ -13,4 +13,4 @@
             "role": "developer"
         }
     ]
-}
+} 
