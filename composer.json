@@ -1,14 +1,16 @@
 {
     "name": "rahulreghunath/zoho",
     "minimum-stability": "dev",
+    "require": {
+    },
     "description": "zoho api php integration",
+    "homepage": "https://github.com/rahulreghunath/zoho-crm",
     "license": "MIT",
     "authors": [
         {
             "name": "Rahul Reghunath",
-            "email": "rahulreghunath@outlook.in"
+            "email": "reghunath11@gmail.com",
+            "role": "developer"
         }
-    ],
-    "homepage": "https://github.com/rahulreghunath/zoho-crm",
-    "require": {}
+    ]
 }
