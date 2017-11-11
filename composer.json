@@ -8,6 +8,7 @@
             "email": "rahulreghunath@outlook.in"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "homepage": "https://github.com/rahulreghunath/zoho-crm",
     "require": {}
 }
