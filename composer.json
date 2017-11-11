@@ -1,0 +1,13 @@
+{
+    "name": "rahulreghunath/zoho",
+    "description": "zoho api php integration",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul Reghunath",
+            "email": "rahulreghunath@outlook.in"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
