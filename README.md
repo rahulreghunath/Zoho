@@ -13,7 +13,7 @@ After updating composer, add the ServiceProvider to the providers array in confi
 
     Rahulreghunath\Zoho\ServiceProvider::class,
     
-After adding ServiceProvider run command 
+After adding ServiceProvider, Run the command 
         
         php artisan vendor:publish
         
