@@ -1,5 +1,5 @@
 ## Zoho
-A simple PHP API extension for Zoho CRM php integration for PHP - Laravel
+A simple PHP API extension for Zoho CRM for Laravel
 
 Require this package in your composer.json and update composer. This will download the package.
 
