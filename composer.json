@@ -1,16 +1,23 @@
 {
     "name": "rahulreghunath/zoho",
-    "minimum-stability": "dev",
-    "require": {
-    },
-    "description": "Zoho CRM integration for PHP-Laravel ",
-    "homepage": "https://github.com/rahulreghunath/zoho",
+    "description": "Zoho CRM integration for PHP-Laravel",
     "license": "MIT",
+    "keywords": ["laravel", "zoho"],
     "authors": [
         {
             "name": "Rahul Reghunath",
             "email": "reghunath11@gmail.com",
             "role": "developer"
         }
-    ]
-} 
+    ],
+    "require": {
+        "php": ">=5.5.9",
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Rahulreghunath\\Zoho\\": "src"
+        }
+    },
+    "minimum-stability": "dev"
+}
