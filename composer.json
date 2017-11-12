@@ -16,7 +16,7 @@
 
     "autoload": {
         "psr-4": {
-            "Rahulreghunath\\Zoho\\": "src"
+            "Rahulreghunath\\Zoho\\": "src/"
         }
     },
     "minimum-stability": "dev"
