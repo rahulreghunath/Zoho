@@ -17,4 +17,4 @@ After adding ServiceProvider, Run the command
         
         php artisan vendor:publish
         
-After that set your Zoho CRM authentication key inside zoho.php file inside config folder and you are goo to go
+After that set your Zoho CRM authentication key inside zoho.php file inside config folder and you are good to go
